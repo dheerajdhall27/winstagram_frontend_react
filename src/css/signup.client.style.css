@@ -1,0 +1,24 @@
+.input-group {
+  width: 50%;
+}
+
+
+.btn-signup {
+  width: 500px;
+  margin-left: 30%;
+  margin-bottom: 100px;
+}
+
+
+@media (max-width: 720px) {
+  .input-group {
+    width: 350px;
+  }
+
+  .btn-signup {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+  }
+}
